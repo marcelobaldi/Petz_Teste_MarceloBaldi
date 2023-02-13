@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Petz</string>
+
+    <string name="id">id</string>
+    <string name="name">nome</string>
+    <string name="loading" tools:ignore="TypographyEllipsis">Carregando ...</string>
+    <string name="list_card">Lista de Cartões</string>
+    <string name="list_updated">Lista Atualizada!</string>
+
+    <string name="petz">Petz</string>
+    <string name="msg_exit">Deseja sair?</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+
+    <string name="custom_dialog">Custom Dialog</string>
+
+    <string name="agree_to_terms">I agree to the terms and conditions.</string>
+
+    <string name="open_custom_dialog">Open Custom Dialog</string>
+</resources>
